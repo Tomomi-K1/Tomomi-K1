@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Tomomi-K1
-- 🌱 I’m currently learning HTML/CSS/Wordpress/Javascript/Github. I am taking the Skillcrush self-paced course for now. I'd love to collaborate with anyone.
+## 👋 Hi, I’m  Tomomi
+🌱 I’m a software engineer student who is attending a Springboard bootcamp.
 
 <!---
 Tomomi-K1/Tomomi-K1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
