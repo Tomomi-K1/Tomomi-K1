@@ -6,6 +6,7 @@ Thank you for visiting my github repos!
   🌱 I’m a recent full-stack software engineer bootcamp graduate (graduated Aug 2023)<br>
   📝 Over 10 years of experience in customer service and administration.<br>
   🎍 Born in Japan and went to collage in Louisiana. <br>
+  👩🏻‍💻 currently volunteering at [HackForLA](https://www.hackforla.org/) as a frontend developer<br>
   ❤️ Looking for frontend/ full-stack software engineering position.<br>
 
 ### Tech stack: 
