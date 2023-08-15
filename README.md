@@ -3,7 +3,7 @@
 Thank you for visiting my github repos! 
 
 ### A Little bit about me:
-  🌱 I’m a recent full-stack software engineer bootcamp graduate (graduated Aug 2023)<br>
+  🌱 I’m a full-stack developer specialized in React, Express, Node, Flask, Python<br>
   📝 Over 10 years of experience in customer service and administration.<br>
   🎍 Born in Japan and went to collage in Louisiana. <br>
   👩🏻‍💻 currently volunteering at [HackForLA](https://www.hackforla.org/) as a frontend developer<br>
