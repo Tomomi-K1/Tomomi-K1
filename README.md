@@ -12,9 +12,9 @@ Thank you for visiting my github repos!
 ### Tech stack: 
 
   - Language: Javascript, Python, HTML, CSS
-  - Frontend: React, Material UI, Bootstrap, JQuery
+  - Frontend: React, Material UI, Bootstrap, JQuery, Tailwind
   - Backend: Node.js, Express.js, pg, Flask, SQLAlchemy
-  - Database: PostgreSQL
+  - Database: PostgreSQL, Firebase
     
 ### Other skills: 
   - Adobe Photoshop
