@@ -21,13 +21,13 @@ Thank you for visiting my github repos!
   - Translation Japanese <=> English
 
 # Most Recent Project
-### Podzoo - Full Stack Web Application
+### Podzoo - Full Stack 
 #### PodZoo is a podcast search web application where a user can search and leave reviews.
   - React, Express, Node, PostgreSQL, Material UI
   - live site: [http://podzoo.surge.sh/](http://podzoo.surge.sh/)
   - [Podzoo Repo](https://github.com/Tomomi-K1/sp-capstone2)
 
-### Find Your Furmily - Paw Match -Full Stack Web Application
+### Paw Match -Full Stack 
 #### Paw Match is a adoptable pet search web application.
   - Flask, Flask-SQLAlchemy, Jinja, PostgreSQL, Bootstrap, JQuery
   - live site: [find-your-furmily-paw-match.onrender.com](https://find-your-furmily-paw-match.onrender.com)
