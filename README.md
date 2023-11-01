@@ -7,7 +7,7 @@ Thank you for visiting my github repos!
   📝 Over 10 years of experience in customer service and administration.<br>
   👩🏻‍💻 Currently volunteering at [HackForLA](https://www.hackforla.org/) as a frontend developer<br>
   ❤️ Looking for frontend/ full-stack software engineering position.<br>
-  🎍 Born in Japan and went to collage in Louisiana. <br>
+  🎍 Born in Japan and went to college in Louisiana. <br>
 
 ### Tech stack: 
 
