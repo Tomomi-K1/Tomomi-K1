@@ -1,6 +1,7 @@
 # 👋 Hi, I’m  Tomomi Kosaka
 
-Thank you for visiting my github repos! Please also checkout [my portfolio site](https://www.tomomikosaka.tech/)
+Thank you for visiting my github repos! 
+### Please also visit My Portfolio Site: [tomomikosaka.tech](https://www.tomomikosaka.tech/)
 
 ### A Little bit about me:
   🌱 I’m a full-stack developer specialized in React, Express, Node, Flask, Python<br>
