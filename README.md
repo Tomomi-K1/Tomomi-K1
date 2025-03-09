@@ -1,20 +1,19 @@
 # 👋 Hi, I’m  Tomomi Kosaka
 
-Thank you for visiting my github repos! 
-### Please also visit My Portfolio Site: [tomomikosaka.tech](https://www.tomomikosaka.tech/)
+Thank you for visiting my github repos!
+### Please also visit My Portfolio Site: [tomomi-kosaka.vercel.app](https://tomomi-kosaka.vercel.app/)
 
-### A Little bit about me:
-  🌱 I’m a full-stack developer specialized in React, Express, Node, Flask, Python<br>
-  📝 Over 10 years of experience in customer service and administration.<br>
-  👩🏻‍💻 Currently volunteering at [HackForLA](https://www.hackforla.org/) as a frontend developer<br>
-  ❤️ Looking for frontend/ full-stack software engineering position.<br>
-  🎍 Born in Japan and went to college in Louisiana. <br>
+### A Little bit about me
+  🌱 I’m a full-stack developer specialized in React, tRPC, Next.js, Prisma, PostgreSQL, Node.<br>
+  👩🏻‍💻 Volunteered at [HackForLA](https://www.hackforla.org/) as a frontend developer<br>
+  ❤️ Currently working as an associate full-stack software engineering at DISPEL <br>
+  🎍 Born in Japan and went to college in Louisiana, currently located in Los Angeles, CA <br>
 
 ### Tech stack: 
 
-  - Language: Javascript, Python, HTML, CSS
-  - Frontend: React, Material UI, Bootstrap, JQuery, Tailwind
-  - Backend: Node.js, Express.js, pg, Flask, SQLAlchemy
+  - Language: Javascript, Python, HTML, CSS, Tyescript
+  - Frontend: React, Material UI, Bootstrap, JQuery, Tailwind, Tanstack
+  - Backend: Prisma, Node.js, tRPC, Express.js, pg, Flask, SQLAlchemy
   - Database: PostgreSQL, Firebase
     
 ### Other skills: 
