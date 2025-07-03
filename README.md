@@ -12,7 +12,7 @@ Thank you for visiting my github repos!
 ### Tech stack: 
 
   - Language: Javascript, Python, HTML, CSS, Tyescript
-  - Frontend: React, Material UI, Bootstrap, JQuery, Tailwind, Tanstack
+  - Frontend: React, Next.js, Tailwind, Tanstack, Material UI, Bootstrap, JQuery
   - Backend: Prisma, Node.js, tRPC, Express.js, pg, Flask, SQLAlchemy
   - Database: PostgreSQL, Firebase
     
