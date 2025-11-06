@@ -6,12 +6,12 @@ Thank you for visiting my github repos!
 ### A Little bit about me
   🌱 I’m a full-stack developer specialized in React, tRPC, Next.js, Prisma, PostgreSQL, Node.<br>
   👩🏻‍💻 Volunteered at [HackForLA](https://www.hackforla.org/) as a frontend developer<br>
-  ❤️ Currently working as an associate full-stack software engineering at DISPEL <br>
+  ❤️ Currently working as a full-stack software engineer at DISPEL <br>
   🎍 Born in Japan and went to college in Louisiana, currently located in Los Angeles, CA <br>
 
 ### Tech stack: 
 
-  - Language: Javascript, Python, HTML, CSS, Tyescript
+  - Language: Javascript, Tyescript, HTML, CSS, Python
   - Frontend: React, Next.js, Tailwind, Tanstack, Material UI, Bootstrap, JQuery
   - Backend: Prisma, Node.js, tRPC, Express.js, pg, Flask, SQLAlchemy
   - Database: PostgreSQL, Firebase
@@ -21,16 +21,15 @@ Thank you for visiting my github repos!
   - Translation Japanese <=> English
 
 # Most Recent Project
-### [Podzoo](https://github.com/Tomomi-K1/sp-capstone2) - Full Stack 
+### [Podzoo](https://github.com/Tomomi-K1/podzoo-fullstack) - Full Stack 
 #### PodZoo is a podcast search web application where a user can search and leave reviews.
   - React, Express, Node, PostgreSQL, Material UI
-  - live site: [http://podzoo.surge.sh/](http://podzoo.surge.sh/)
+  - live site: [http://podzoo-fullstack.vercel.app/](http://podzoo-fullstack.vercel.app)
   - [Podzoo Repo](https://github.com/Tomomi-K1/sp-capstone2)
 
 ### [Paw Match](https://github.com/Tomomi-K1/find-your-furmily) -Full Stack 
 #### Paw Match is a adoptable pet search web application.
   - Flask, Flask-SQLAlchemy, Jinja, PostgreSQL, Bootstrap, JQuery
-  - live site: [find-your-furmily-paw-match.onrender.com](https://find-your-furmily-paw-match.onrender.com)
   - [Paw Match Repo](https://github.com/Tomomi-K1/find-your-furmily)
 
 <br>
