@@ -5,8 +5,7 @@ Thank you for visiting my github repos!
 
 ### A Little bit about me
   🌱 I’m a full-stack developer specialized in React, tRPC, Next.js, Prisma, PostgreSQL, Node.<br>
-  👩🏻‍💻 Volunteered at [HackForLA](https://www.hackforla.org/) as a frontend developer<br>
-  ❤️ Currently working as a full-stack software engineer at DISPEL <br>
+  👩🏻‍💻 Volunteered at [HackForLA](https://www.hackforla.org/) as a full stack developer<br>
   🎍 Born in Japan and went to college in Louisiana, currently located in Los Angeles, CA <br>
 
 ### Tech stack: 
